@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            color:red;
+        }
+        .a1{
+            font-size: 50px;
+        }
+        p{
+            background-color:rgb(180, 232, 245);
+        }
+        #id1{
+        color: peru;
+        }       
+        #id2{
+            color: rgb(93, 119, 233);
+            background-color: rgb(250, 249, 177);
+        }
+    </style>
+</head>
+<body>
+   <div class="a1" id="id1">陳啟文</div>
+   <span class="a1" id="id2">我愛你</span>
+   <p class="a1" id="id3">沙啷黑</p>
+
+   <input type="abc" style="font-size: 30px;">
+   in
+   <div>
+       <a href="#">google</a>
+   </div>
+</body>
+</html>
